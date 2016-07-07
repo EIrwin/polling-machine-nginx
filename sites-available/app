@@ -1,0 +1,3 @@
+location /pm/ {
+	proxy_pass http://api:8181/;
+}

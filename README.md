@@ -1,2 +1,2 @@
-# polling-machine-nginx
-NGINX Proxy for Polling Machine
+# nginx
+NGINX proxy server
